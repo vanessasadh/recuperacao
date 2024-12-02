@@ -1,0 +1,10 @@
+{
+  "name": "my project recuperacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "jest --watchAll --coverage"
+  }
+}
